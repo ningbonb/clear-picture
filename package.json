@@ -1,0 +1,22 @@
+{
+  "name": "clear-picture",
+  "version": "1.0.0",
+  "description": "手指涂抹清除图片",
+  "main": "./src/ClearPicture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ningbonb/clear-picture.git"
+  },
+  "keywords": [
+    "canvas","涂抹","picture","刮刮卡"
+  ],
+  "author": "ningbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ningbonb/clear-picture/issues"
+  },
+  "homepage": "https://github.com/ningbonb/clear-picture#readme"
+}
