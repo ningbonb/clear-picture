@@ -20,7 +20,7 @@ const cp = new ClearPicture({
    background: require('../assets/draw_image.jpg'), // 用于涂抹的背景，涂抹完成后消失 
    canvasWidth: 500, // canvas 宽度
    canvasHeight: 500, // canvas 高度
-   circleRadius: 30, // 画笔圆圈粗细
+   lineWidth: 60, // 画笔粗细
    completeRatio: 0.5, // 完成度，最大值为 1
    finishCallback: ()=>{
         // 完成回调
