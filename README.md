@@ -13,7 +13,7 @@ $ npm i clear-picture --save
 ## 使用
 
 ```javascript
-import ClearPicture from 'create-picture';
+import ClearPicture from 'clear-picture';
 
 const cp = new ClearPicture({
    canvas: document.getElementById('canvas'), // 页面中的 canvas 元素
